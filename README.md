@@ -25,3 +25,4 @@ Archivos a revisar para módulo de Natural Language Processing:
 
 Archivos a revisar para módulo de Deeplearning:
 * Evidencia_Individual_Deep_Learning_A00829925.pdf
+* https://drive.google.com/file/d/1hIkVLC6CFXqAasCHKnUxZSKvytc4RIbE/view?usp=drivesdk
